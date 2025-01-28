@@ -8,8 +8,8 @@ A simple and fun Flutter application that simulates rolling a dice. Perfect for 
 - 🔄 Randomized dice results every roll.
 
 ## Screenshots 📸
-![Screenshot_1737894174](https://github.com/user-attachments/assets/3767475a-a0a0-4d6b-8190-079dd6ccc1b7)
-![Screenshot_1737894178](https://github.com/user-attachments/assets/2221bd4a-9446-4dc4-af8e-7705b249036f)
+<img src="https://github.com/user-attachments/assets/3767475a-a0a0-4d6b-8190-079dd6ccc1b7" width="200" height="400">
+<img src="https://github.com/user-attachments/assets/2221bd4a-9446-4dc4-af8e-7705b249036f" width="200" height="400">
 
 *(Add a screenshot of the app here)*
 
